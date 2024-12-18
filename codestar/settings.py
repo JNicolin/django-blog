@@ -27,7 +27,6 @@ DEBUG = False
 
 ALLOWED_HOSTS = ['8000-jnicolin-djangoblog-6kjjume37b7.ws.codeinstitute-ide.net']
 
-
 # Application definition
 
 INSTALLED_APPS = [
